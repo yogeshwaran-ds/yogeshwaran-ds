@@ -7,7 +7,7 @@
 - 📚 BCom Corporate Secretaryship — Sivet College
 - 🌱 Currently learning: Python, Machine Learning, Deep Learning
 - 💼 Actively seeking: Data Science Internship opportunities
-- 🎯 Future goal: MS in Data Science at Lewis University, USA
+- 🎯 Future goal:- 🎯 Passionate about building a career in AI & Data Science
 
 ## 🛠️ Skills
 - **Languages:** Python, SQL
