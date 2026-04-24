@@ -16,7 +16,6 @@
 - **Other:** Data Visualization, Machine Learning
 
 ## 📂 Projects
-- 🧠 Brain Tumor Classification — ML project using Logistic Regression & SVM
-
+- 🧠 [Brain Tumor Classification](https://github.com/yogeshwaran-ds/brain-tumor-classification) — ML project using Logistic Regression & SVM
 ## 📫 Contact Me
 - 📍 Chennai, India
