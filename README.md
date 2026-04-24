@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yogeshwaran N 👋
 
-<!--
-**yogeshwaran-ds/yogeshwaran-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Science & AI Enthusiast from Chennai, India
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Master Program in Data Science & AI — FITA Academy (2026)
+- 📚 BCom Corporate Secretaryship — Sivet College
+- 🌱 Currently learning: Python, Machine Learning, Deep Learning
+- 💼 Actively seeking: Data Science Internship opportunities
+- 🎯 Future goal: MS in Data Science at Lewis University, USA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Tools:** VS Code, MySQL Workbench, Power BI, Jupyter Notebook
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Other:** Data Visualization, Machine Learning
+
+## 📂 Projects
+- 🧠 Brain Tumor Classification — ML project using Logistic Regression & SVM
+
+## 📫 Contact Me
+- 📍 Chennai, India
